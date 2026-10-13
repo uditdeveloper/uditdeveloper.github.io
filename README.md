@@ -23,7 +23,7 @@ Three things in `index.html` are placeholders. Search for them and replace them.
 
 | Find | Replace with | Where |
 | --- | --- | --- |
-| `uditdeveloper499@gmail.com` | your real email address | Contact section — appears **twice**, in `href="mailto:..."` and in the visible text |
+| `you@example.com` | your real email address | Contact section — appears **twice**, in `href="mailto:..."` and in the visible text |
 | `href="#" data-placeholder="true"` | your LinkedIn and X profile URLs | Contact section — or delete the whole `<li>` if you don't use that platform |
 | `https://uditdeveloper.github.io/` | your published site URL | `<link rel="canonical">`, `og:url`, and the JSON-LD block in `<head>` |
 
