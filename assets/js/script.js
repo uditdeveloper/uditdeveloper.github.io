@@ -268,7 +268,7 @@
         '?subject=' + encodeURIComponent(subject) +
         '&body=' + encodeURIComponent(body);
 
-      if (status) status.textContent = 'Opening your email app…';
+      if (status) status.textContent = 'Thanks for reaching out!';
       form.reset();
     });
   }
